@@ -1,1 +1,3 @@
 # Python_projects
+
+This Python project simulates a restaurant menu and billing system using Object-Oriented Programming (OOP). The Cuisines class displays four regional cuisines—Rajasthani, Punjabi, Gujarati, and Maharashtrian—with item names and prices shown using pandas. Users can place orders by choosing item positions and quantities. The program calculates the total cost, applies service tax (5% or 10%), and shows a styled bill using colorama. It’s an ideal beginner-level project to understand Python OOP, lists, dictionaries, loops, and external modules while mimicking a real-world restaurant ordering system.
